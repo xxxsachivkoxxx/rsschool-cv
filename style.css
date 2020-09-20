@@ -1,0 +1,10 @@
+.container {
+    width: 1024px;
+    margin: auto;
+}
+
+.photo {
+    display: flex;
+    margin: auto;
+    width: 30%;
+}
